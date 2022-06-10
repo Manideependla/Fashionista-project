@@ -1,4 +1,4 @@
-# Angular Ecommerce Web App
+# Fashion Application
 
 The project is based on the basics of both Angular and MySQL. To understand this we need to implement various fields of applications. It was not fun at first but once I got the hang of it it was quite pleasant. In addition to Angular and MySQL, this project is built using Ant Design for its UI and SwiperJS for its carousels. The backend is built using Node.js, Express.js, Joi for input validation, and JWT for authentication. I have given a demo link for now there will be instructions on how to set up this project on your local machine and you can verify them.
 
