@@ -28,7 +28,9 @@ npm run install
 cd.. // return to folder-name
 cd client
 npm i force
+npm start
 npm run install
+npm run start
 ```
 
 <br/>
